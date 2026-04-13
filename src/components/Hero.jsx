@@ -121,9 +121,7 @@ export default function Hero() {
               >
                 "Fashion fades, style is eternal."
               </p>
-              <p className="text-white/40 text-xs mt-4 tracking-widest uppercase">
-                Add your product images
-              </p>
+              
             </div>
             {/* Decorative corners */}
             <div
